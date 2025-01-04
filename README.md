@@ -12,7 +12,7 @@ Aces are worth 1.
 1. Hit Button:
 When you click the "Hit" button, a new card is drawn for you. You can continue hitting to draw as many cards as you want.
 
-! [image] (https://github.com/bashubisht/BlackJack/blob/main/readme%20images/img1.PNG)
+![](https://github.com/bashubisht/BlackJack/blob/main/readme%20images/img1.PNG)
 
 3. Stand Button:
 When you're satisfied with your hand, click the "Stand" button. This will end your turn, and the dealer will start drawing cards.
