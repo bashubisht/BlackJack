@@ -38,6 +38,6 @@ If your hand value equals the dealer's hand value, the game ends in a draw.
 ![](https://github.com/bashubisht/BlackJack/blob/main/readme%20images/img5.PNG)
 
 # Additional Features
-The game keeps track of your total wins, losses, and draws.
-Click on the "Restart" button to start a new game.
-Click on the "Deal" button to reset the field and start a new round.
+- The game keeps track of your total wins, losses, and draws.
+- Click on the "Restart" button to start a new game.
+- Click on the "Deal" button to reset the field and start a new round.
