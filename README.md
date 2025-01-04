@@ -12,19 +12,21 @@ Aces are worth 1.
 1. Hit Button:
 When you click the "Hit" button, a new card is drawn for you. You can continue hitting to draw as many cards as you want.
 
-2. Stand Button:
+! [image] (https://github.com/bashubisht/BlackJack/blob/main/readme%20images/img1.PNG)
+
+3. Stand Button:
 When you're satisfied with your hand, click the "Stand" button. This will end your turn, and the dealer will start drawing cards.
 
-3. Dealer's Hand:
+4. Dealer's Hand:
 If the dealer's hand exceeds your hand, you lose the game.
 
-4. Bust:
+5. Bust:
 If the total value of your hand exceeds 21, you lose the game (busted).
 
-5. Win:
+6. Win:
 If the total value of your hand is greater than the dealer's hand without busting, you win the game.
 
-6. Draw:
+7. Draw:
 If your hand value equals the dealer's hand value, the game ends in a draw.
 
 # Additional Features
