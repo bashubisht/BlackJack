@@ -1,4 +1,4 @@
-# BlackJack
+## BlackJack
 
 # Game Overview
 In this Blackjack game, the goal is to achieve a hand value as close to 21 as possible without exceeding it. If your hand goes over 21, it's a "bust," and you lose. You play against the dealer, and to win, your hand must have a higher value than the dealer's hand.
@@ -14,20 +14,28 @@ When you click the "Hit" button, a new card is drawn for you. You can continue h
 
 ![](https://github.com/bashubisht/BlackJack/blob/main/readme%20images/img1.PNG)
 
-3. Stand Button:
+2. Stand Button:
 When you're satisfied with your hand, click the "Stand" button. This will end your turn, and the dealer will start drawing cards.
 
-4. Dealer's Hand:
+3. Dealer's Hand:
 If the dealer's hand exceeds your hand, you lose the game.
+
+![](https://github.com/bashubisht/BlackJack/blob/main/readme%20images/img2.PNG)
 
 5. Bust:
 If the total value of your hand exceeds 21, you lose the game (busted).
 
-6. Win:
+![](https://github.com/bashubisht/BlackJack/blob/main/readme%20images/img3.PNG)
+
+7. Win:
 If the total value of your hand is greater than the dealer's hand without busting, you win the game.
 
-7. Draw:
+![](https://github.com/bashubisht/BlackJack/blob/main/readme%20images/img4.PNG)
+
+9. Draw:
 If your hand value equals the dealer's hand value, the game ends in a draw.
+
+![](https://github.com/bashubisht/BlackJack/blob/main/readme%20images/img5.PNG)
 
 # Additional Features
 The game keeps track of your total wins, losses, and draws.
