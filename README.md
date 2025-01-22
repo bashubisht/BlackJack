@@ -38,7 +38,9 @@ If your hand value equals the dealer's hand value, the game ends in a draw.
 
 Bonus Features Implemented
 ✅ Next.js API routes for handling form submissions.
+
 ✅ JSONForms used for a configuration-driven form setup.
+
 ✅ Redux Toolkit used for efficient state management.
 ✅ Unit tests for form submission and validation.
 ✅ TypeScript integration for type safety.
