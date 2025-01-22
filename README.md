@@ -50,12 +50,15 @@ If your hand value equals the dealer's hand value, the game ends in a draw.
 ✅ Redux Toolkit used for efficient state management.
 
 ✅ Unit tests for form submission and validation.
+
 ✅ Responsive design to ensure a great user experience across different screen sizes.
+
 ✅ TypeScript integration for type safety.
 
 ✅ Form validation feedback to show meaningful error messages.
 
 ✅ Documentation with a detailed system design explanation.
+---
 
 THANK YOU
 
