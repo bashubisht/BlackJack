@@ -37,31 +37,6 @@ If your hand value equals the dealer's hand value, the game ends in a draw.
 
 ![](https://github.com/bashubisht/BlackJack/blob/main/readme%20images/img5.PNG)
 
-
-
----
-
-## 9. Bonus Features Implemented
-
-✅ Next.js API routes for handling form submissions.
-
-✅ JSONForms used for a configuration-driven form setup.
-
-✅ Redux Toolkit used for efficient state management.
-
-✅ Unit tests for form submission and validation.
-
-✅ Responsive design to ensure a great user experience across different screen sizes.
-
-✅ TypeScript integration for type safety.
-
-✅ Form validation feedback to show meaningful error messages.
-
-✅ Documentation with a detailed system design explanation.
-
----
-THANK YOU
-
 ---
 
 # Additional Features
